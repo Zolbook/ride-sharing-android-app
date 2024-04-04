@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item> <!-- This line hides the title bar -->
+        <item name="toolbarStyle">@style/MyToolbar</item>
+    </style>
+
+    <style name="MyToolbar" parent="@style/Widget.AppCompat.Toolbar">
+        <!-- Customize your toolbar style here if needed -->
+    </style>
+
+</resources>

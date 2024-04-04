@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ride sharing app</string>
+    <string name="default_web_client_id">945402395832-jnke809eq96g9qlkrpa7mepn4citsjrn.apps.googleusercontent.com</string>
+    <string name="driver_profile_photo">Driver\'s profile photo</string>
+
+</resources>
